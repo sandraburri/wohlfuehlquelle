@@ -1,0 +1,42 @@
+{
+  "folders": [
+    {
+      "path": "F:\\dev\\xampp-7.2.3\\htdocs\\wohlfuehlquelle"
+    }
+  ],
+  "settings":
+    // Place your settings in this file to overwrite default and user settings.
+    {
+      "search.exclude": {
+        "**/node_modules": false,
+        "**/Style Library": true,
+        "**/dist/": true,
+        "**/Deployment/logs": true
+      },
+
+      "files.exclude": {
+        "**/.idea/": false,
+        "**/node_modules/": false,
+        "**/dist/": true
+      },
+
+      "editor.tabSize": 4,
+      "editor.insertSpaces": true,
+      "editor.detectIndentation": false,
+
+      // Controls whether the editor should render whitespace characters
+      "editor.renderWhitespace": "all",
+
+      // Controls whether the editor should render control characters
+      "editor.renderControlCharacters": true,
+
+      // When enabled, will trim trailing whitespace when you save a file.
+      "files.trimTrailingWhitespace": true,
+
+      // Controls if the editor should automatically format the line after typing
+      "editor.formatOnType": false,
+
+      // End with a newline.
+      "html.format.endWithNewline": false
+    }
+}

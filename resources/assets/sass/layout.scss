@@ -1,0 +1,111 @@
+#header,
+#content,
+#navigation,
+.region-sidebar-first,
+.region-sidebar-second,
+.region-footer,
+#footer {
+    overflow: visible;
+    word-wrap: break-word;
+}
+
+body {
+    background-image: url(/images/body.png);
+    background-repeat: repeat-x;
+    background-color: #c998ed;
+    padding: 0 !important;
+}
+
+#page {
+    background-image: url(/images/left.jpg);
+    background-repeat: no-repeat;
+    margin: 0px auto;
+    padding-left: 30px;
+    text-align: left;
+    width: 930px;
+    clear: both;
+}
+
+#page-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 978px;
+    background-image: url(/images/right.jpg);
+    background-position: 951px 0px;
+    background-repeat: no-repeat;
+}
+
+#header {
+    background-image: url(/images/header.png);
+    background-repeat: no-repeat;
+    height: 249px;
+    position: relative;
+}
+
+#footer {
+    background-color: #c998ed;
+    background-image: url(/images/footer.jpg);
+    background-repeat: no-repeat;
+    background-position: 24px 0;
+    width: 978px;
+    margin: 0px auto;
+    padding: 10px 0 80px 50px;
+    text-align: left;
+    color: #623488;
+    position: relative;
+}
+
+#main-wrapper {
+    position: relative;
+    border-style: solid;
+    border-color: #cc99ff;
+    border-width: 3px 3px 0px 3px;
+    background-color: #fff;
+    background-image: url(/images/inner.jpg);
+    background-repeat: no-repeat;
+    width: $width;
+    padding: 27px;
+    min-height: 350px;
+}
+
+#after-navigation {
+    clear: both;
+    background-color: #653d88;
+    height: 3px;
+    margin: 0;
+}
+
+#kontakt {
+    position: absolute;
+    top: 190px;
+    left: 580px;
+    background-image: url(/images/kontakt.png);
+    background-repeat: no-repeat;
+    width: 148px;
+    height: 41px;
+}
+
+#konditionen {
+    position: absolute;
+    top: 188px;
+    left: 740px;
+    background-image: url(/images/konditionen.png);
+    background-repeat: no-repeat;
+    width: 148px;
+    height: 43px;
+}
+
+#site-name a:link,
+#site-name a:visited {
+    color: #000;
+    text-decoration: none;
+    display: block;
+    display: block;
+    width: 350px;
+    height: 150px;
+}
+
+#site-name span {
+    position: absolute;
+    left: -9999px;
+}

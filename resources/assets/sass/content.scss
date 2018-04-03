@@ -1,0 +1,57 @@
+.main {
+
+    a,
+    a:visited {
+        color: #b886e6;
+        text-decoration: none;
+        border-bottom: 1px dotted #666;
+    }
+
+    a:hover {
+        background-color: #b886e6;
+        color: #fff;
+        border-bottom: 1px dotted #fff;
+    }
+
+    .content {
+        width: 560px;
+    }
+
+    h1 {
+        color: #b886e6;
+        font-size: 20px;
+        font-weight: bold;
+        margin: 5px 0 30px 0;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+    }
+
+    h2 {
+        color: #b886e6;
+        font-size: 16px;
+        font-weight: bold;
+        margin: 25px 0 5px 0;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+    }
+
+    h3 {
+        font-size: 14px;
+        font-weight: bold;
+        margin: 15px 0 5px 0;
+    }
+
+    ul {
+        margin: 0;
+        padding: 0px 0 15px 0;
+        list-style: none;
+    }
+
+    li {
+        margin: 0;
+        padding: 0 0 0 12px;
+        font-size: 13px;
+        line-height: 1.4em;
+        background: url(/images/bullet.gif) no-repeat 0 7px;
+    }
+}

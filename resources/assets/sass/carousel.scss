@@ -1,0 +1,112 @@
+// Copyright (c) 2006-2007, Bill W. Scott
+// All rights reserved.
+//
+// This work is licensed under the Creative Commons Attribution 2.5 License. To view a copy
+// of this license, visit http://creativecommons.org/licenses/by/2.5/ or send a letter to
+// Creative Commons, 543 Howard Street, 5th Floor, San Francisco, California, 94105, USA.
+//
+// This work was created by Bill Scott (billwscott.com, looksgoodworkswell.com).
+// The only attribution I require is to keep this notice of copyright & license
+// in this original source file.
+
+// Version 0.6.1 - 07.08.2007
+// Standard Configuration. It is advised that this section NOT be modified as the
+// carousel.js expects the behavior outlined below.
+
+ .carousel-component {
+    position: relative;
+    overflow: hidden; /* causes the clipping */
+    display: block;
+    /* component turns it on when first item is rendered */
+}
+
+.carousel-component ul.carousel-list {
+    width: 10000000px;
+    position: relative;
+    z-index: 1;
+}
+
+.carousel-component .carousel-list li {
+    float: left;
+    list-style: none;
+    overflow: hidden;
+}
+
+.carousel-component .carousel-clip-region {
+    overflow: hidden; /* Secret to the clipping */
+    margin: 0px auto;
+    position: relative;
+    width: 400px;
+}
+
+// ==============================================================================
+// Safe to override. It is safe to override background, padding, margin, color,
+// text alignment, fonts, etc. Define a separate CSS file and override your style
+// preferences.
+
+.carousel-component {
+    padding: 0px;
+    color: #000;
+}
+
+.carousel-component ul.carousel-list {
+    margin: 0px;
+    padding: 0px;
+    line-height: 0px;
+}
+
+.carousel-component .carousel-list li {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    font-size: 10px;
+    color: #666;
+}
+
+.carousel-component .carousel-vertical li {
+    // nothing
+}
+
+.carousel-component ul.carousel-vertical {
+    // nothing
+}
+
+.carousel-component {
+    padding: 8px 13px 15px 13px;
+    margin: 0px;
+    width: 408px;
+}
+
+.carousel-component .carousel-list li {
+    margin: 4px;
+    width: 92px;
+    height: 92px;
+    // img width is 88 px from flickr + a.border-left (1) + a.border-right(1) + img.border-left (1) + img.border-right (1)
+}
+
+.carousel-component .carousel-list li a {
+    display: block;
+    border: 1px solid #fff !important;
+    outline: none;
+}
+.carousel-component .carousel-list li a:hover {
+    border: 1px solid #ccc !important;
+}
+.carousel-component .carousel-list li img {
+    border: 1px solid #fff;
+    display: block;
+}
+.carousel-component .carousel-prev {
+    position: absolute;
+    top: 13px;
+    z-index: 3;
+    cursor: pointer;
+    left: 0px;
+}
+.carousel-component .carousel-next {
+    position: absolute;
+    top: 13px;
+    z-index: 3;
+    cursor: pointer;
+    right: 0px;
+}

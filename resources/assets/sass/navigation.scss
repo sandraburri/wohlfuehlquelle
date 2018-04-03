@@ -1,0 +1,46 @@
+
+#navigation {
+
+    background-color: #b17bdf;
+    background-image: url("/images/menu.png");
+    height: 30px;
+    margin: 0 30px 0 0;
+    padding: 0 0 0 15px;
+    width: $width;
+
+    .nav-item a,
+    .nav-item a:link,
+    .nav-item a:visited,
+    .nav-item a:active {
+        color: #fff;
+        text-decoration: none;
+        font-size: 13px;
+        display: block;
+        text-transform: uppercase;
+        padding: 5px 20px 5px 20px;
+    }
+
+    .nav-item a:hover,
+    .nav-item a.active {
+        background-color: #623488;
+    }
+
+    .dropdown-menu {
+        border: 0;
+        background: #CC99FF;
+    }
+
+    .dropdown-menu a {
+        color: #fff;
+    }
+
+    .dropdown-menu a:hover {
+        color: #fff;
+        background-color: #623488;
+        white-space: nowrap;
+    }
+
+    .indent {
+        padding-left: 20px;
+    }
+}

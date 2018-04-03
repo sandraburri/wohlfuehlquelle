@@ -1,0 +1,86 @@
+#footer {
+
+    div.texts {
+        padding: 30px 0 0 15px;
+        height: 40px;
+        width: $width;
+        font-size: 11px;
+    }
+
+    div.texts div.address {
+        float: left;
+        height: 20px;
+        padding: 0;
+        width: 700px;
+    }
+
+    div.texts div.address span {
+        padding: 0 3px 0 3px;
+    }
+
+    div.texts div.author {
+        float: right;
+        text-align: right;
+        padding: 0 25px 0 0;
+    }
+
+    div.author a {
+        color: #623488;
+        text-decoration: none;
+        font-weight: normal;
+    }
+
+    a,
+    a:hover {
+        color: #623488;
+        text-decoration: none;
+        background: none;
+        border: none;
+        font-weight: bold;
+    }
+
+    a:hover {
+        background-color: #b886e6;
+        color: #fff;
+        border-bottom: 1px dotted #fff;
+        font-weight: bold;
+    }
+
+    div.times {
+        height: 40px;
+        width: 700px;
+    }
+
+    dl {
+        margin: 0;
+        padding: 0 0 10px;
+        width: 700px;
+    }
+
+    dt {
+        clear: both;
+        float: left;
+        padding: 0 0 4px;
+        width: 120px;
+        font-weight: bold;
+    }
+
+    dd {
+        padding: 0 0 4px;
+        margin: 0 0 0 120px;
+    }
+
+    a.laravel,
+    a.laravel:hover {
+        background-color: transparent;
+        background-image: url(/images/laravel.png);
+        background-position: top right;
+        background-repeat: no-repeat;
+        padding: 0 20px 0 0;
+        display: block;
+        height: 16px;
+        width: auto;
+        border: none;
+        text-decoration: none;
+    }
+}
