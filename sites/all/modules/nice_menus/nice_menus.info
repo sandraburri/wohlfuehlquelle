@@ -1,0 +1,15 @@
+; $Id: nice_menus.info,v 1.7 2010/10/18 10:41:31 add1sun Exp $
+name = Nice Menus
+description = CSS/jQuery drop-down, drop-right and drop-left menus to be placed in blocks
+dependencies[] = menu
+core = 7.x
+
+files[] = nice_menus.install
+files[] = nice_menus.module
+
+; Information added by drupal.org packaging script on January 1, 1970 - 00:00
+version = "7.x-2.0-beta2"
+core = "7.x"
+project = "nice_menus"
+datestamp = "1296133924"
+

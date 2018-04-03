@@ -1,0 +1,122 @@
+/**
+ * @file
+ * Navigation Styling
+ */
+
+
+/*
+ * The active item in a Drupal menu
+ */
+li a.active {
+    color: #000;
+}
+
+/*
+ * Navigation bar
+ */
+#navigation {
+    background-color: #b17bdf;
+    background-image: url( "../images/menu.png" );
+    height: 30px;
+    margin: 0 30px 0 0;
+    padding: 0 0 0 15px;
+	width: 885px;
+}
+#navigation  .block {
+	margin: 0;
+}
+#after-navigation {
+    clear: both;
+    background-color: #653d88;
+    height: 3px;
+    margin: 0 30px 0 0;
+}
+
+#navigation ul.links, /* Main menu and secondary menu links */
+#navigation .content ul /* Menu block links */ {
+    margin: 0;
+    padding: 0;
+    text-align: left; /* LTR */
+}
+
+#navigation ul.links li, /* A simple method to get navigation links to appear in one line. */
+#navigation .content li {
+	margin: 0;
+    padding: 0px;
+    float: left;
+	background: none;
+	border: none;
+}
+
+.region-navigation {
+}
+
+/*
+ * Main menu and Secondary menu links
+ */
+#main-menu {
+}
+
+#secondary-menu {
+    float: right;
+}
+
+/*
+ * Menu blocks
+ */
+.block-menu {
+}
+
+/*
+ * "Menu block" blocks
+ *
+ * Drupal core has limited ways in which it can display its menus. To get around
+ * these limitations, see http://drupal.org/project/menu_block
+ */
+.block-menu-block {
+}
+ul.nice-menu li {
+    text-transform: uppercase;
+}
+ul.nice-menu a,
+ul.nice-menu a:link,
+ul.nice-menu a:visited,
+ul.nice-menu a:active {
+    color: #e0e0e0;
+    text-decoration: none;
+    font-size: 13px;
+    display: block;
+    padding: 5px 20px 5px 20px;
+}
+ul.nice-menu li.active-trail a {
+    color: #fff;
+}
+ul.nice-menu li.active-trail a,
+ul.nice-menu a:hover {
+    color: #fff;
+    background-color: #623488;
+    font-size: 13px;
+}
+ul.nice-menu ul {
+	top: 30px;
+	border: 0;
+	background: #CC99FF;
+	width: 200px;
+}
+ul.nice-menu ul li {
+    text-transform: none;
+	width: 100%;
+}
+ul.nice-menu ul li a,
+ul.nice-menu ul li a:link,
+ul.nice-menu ul li a:visited,
+ul.nice-menu ul li a:active {
+	color: #e0e0e0;
+	background: none;
+	white-space: nowrap;
+}
+ul.nice-menu ul li a:hover {
+    color: #fff;
+	background-color: #623488;
+	white-space: nowrap;
+}

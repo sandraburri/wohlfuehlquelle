@@ -1,0 +1,394 @@
+From: Hostpoint Sales [orders-sh@hostpoint.ch]
+Sent: Montag, 8. März 2004 17:47
+To: keschte@gmx.ch
+Subject: Ihr neuer Server bei Hostpoint
+
+
+BITTE LESEN SIE DIESES E-MAIL AUFMERKSAM DURCH. ES ENTHÄLT ALLE WICHTIGEN INFORMATIONEN FÜR IHREN SERVER! BEI UNSACHGEMÄSSER HANDHABUNG DES SERVER KÖNNEN SIE IHRE DATEN UND IHREN SERVER BESCHÄDIGEN!
+	
+	
+	
+Sehr geehrte(r) Stefan Kestenholz
+	 
+Vielen Dank, dass Sie einen SH Server von Hostpoint ausgewählt haben!
+	
+Bitte sind Sie sich bewusst, dass dieses E-Mail wichtige Informationen für Ihren Server enthält. Drucken Sie es aus, damit Sie bei allfälligen Fragen darauf zurückgreifen können.
+	
+	
+	
+	
+WELCHE INFORMATIONEN FINDEN SIE IN DIESEM E-MAIL?
+	
+    Allgemein
+    ---------
+ 1. Serverdaten
+ 2. Domainname Registration/Transfer
+
+    Erste Schritte
+    --------------
+ 3. Hostpoint Control Panel
+ 4. E-Mailkonten auf dem Server einrichten  5. Standard Adresse einrichten  6. Kontaktinformationen einrichten  7. E-Mailprogramm auf Ihrem Computer einrichten  8. WebMail  9. FTP-Zugang 10. Wie kommt die Webseite auf den Server?
+11. Frontpage / CGI / Allgemeines / mySQL 12. Support 13. Hostpoint Surf - Einfach ins Internet und auf Ihren Server
+
+    Vertragsinformationen
+    ---------------------
+14. Hostingvertrag
+	
+	
+	
+	
+1. SERVERDATEN
+	
+Die folgenden Daten benötigen Sie für den Zugriff auf Ihren Server:
+	
+Server:    		SH Server Standard
+	
+Domainname:		muerggu.ch
+Username:		muerggu
+Passwort:		JHSDf5ka
+	
+	
+Bitte beachten Sie, dass Sie Ihr Passwort an einem sicheren Ort aufbewahren und mit Vorsicht verwenden. Sie loggen sich mit dem Usernamen und dem Passwort jedes Mal ein, wenn Sie das Hostpoint Control Panel benützen und/oder Daten per FTP auf dem Server speichern wollen.
+Teilen Sie diese Daten nicht willkürlich anderen Personen mit und ändern Sie Ihr Passwort regelmässig!
+	
+	
+	
+	
+2. DOMAINNAME REGISTRATION/TANSFER
+	
+Bei der Bestellung haben Sie folgende Domainverarbeitung gewählt:
+
+Registration oder Transfer durch mich selbst (Kunde)
+
+
+Was bedeutet dies?
+	
+A. Domainregistration oder Transfer durch Hostpoint
+    Falls Sie bei der Bestellung 'Registration oder Transfer durch Hostpoint' ausgewählt haben, werden
+    wir für Sie fast alles erledigen. Ausser
+	
+    - bei .ch- oder .li-Domainnamen-Transfer erhalten von der Switch
+(www.nic.ch) ein E-Mail oder
+      ein Fax, welches Sie bestätigen und an die Switch zurücksenden müssen.
+	
+    - bei allen anderen Domain-Transfers werden wir Sie kontaktieren, um mit Ihnen den Transfer
+      zu besprechen
+	
+    Bitte beachten Sie, dass nach Ihrer Bestätigung an die Switch der Transfer einer .ch- oder .li- 
+    Domain 24 Stunden dauert. Dies trifft auch zu, wenn Hostpoint Ihnen eine .ch- oder .li-Domain
+    registriert. 
+    Bei allen anderen Domains kann der Transfer bis zu 48 Stunden dauern. Dies trifft auch  
+    zu, wenn Hostpoint Ihnen eine andere Domain z.B. .com registriert.
+	
+	
+B. Domainregistration oder Transfer durch den Kunden
+    Falls Sie bei der Bestellung 'Registration oder Transfer durch mich selbst' ausgewählt haben,
+    benötigen Sie folgende Information für den Nameservereintrag bei Ihrem Registrar:
+	
+    1. Nameserver: ns.hostpoint.ch
+    1. IP-Adresse: 217.26.51.254
+    2. Nameserver: ns2.hostpoint.ch
+    2. IP-Adresse: 217.26.53.254
+	
+	
+Bis Ihre Domainregistrierung oder der Transfer abgeschlossen ist, können Sie Ihre Webseite über folgenden Hilfslink erreichen:
+	
+http://server18.hostpoint.ch/~muerggu/
+	
+Bitte beachten Sie, dass Ihr E-Mail mit dieser Adresse nicht funktioniert und dass niemand Ihre Webseite unter Ihrem Domainnamen erreichen kann, bis die Domainregistrierung oder der Transfer abgeschlossen ist!
+	
+Bitte benützen Sie nach erfolgreicher Domainregistrierung oder Transfer diesen Hilfslink NICHT mehr. Benutzen Sie ihn auch nicht in Ihren Webseiten, da  ansonsten Ihre Webseite zu einem späteren Zeitpunkt nicht mehr funktionieren könnte!
+	
+	
+	
+	
+3. HOSTPOINT CONTROL PANEL
+	
+Sie haben unter folgender Adresse Zugriff auf das Hostpoint Control
+Panel:
+	
+http://admin.hostpoint.ch
+	
+* E-Mail *
+In diesem Menü verwalten Sie Ihren Mailserver.
+	
+* Server Management *
+Hier können Sie Subdomains einrichten, Frontpage Erweiterungen installieren usw. Zudem finden Sie hier den FTP Manager oder den praktische Backup Manager.
+	
+* Domain *
+In dem Bereich Domain können Sie ein Domain Mapping/Pointing einrichten oder zusätzliche Domainnamen einkaufen.
+	
+* Datenbanken *
+In diesem Menü verwalten Sie Ihre mySQL-Datenbanken.
+	
+* Statistiken *
+Hier finden Sie sämtliche zur Verfügung gestellten Statistiken für Ihren Server.
+	
+* Applikationen *
+Im Bereich Applikationen finden Sie interessante und nützliche Programme, die Sie auf Knopfdruck installieren können (CMS, Foren, Gästebuch, Formular usw.). Zudem befindet sich hier das Software Packet zum downloaden.
+
+* Support *
+Im Supportbereich finden Sie eine gut ausgebaute Support Umgebung mit Helpdesk, Anleitungen und Links.
+
+	
+	
+B. Arbeitsfenster
+Im Arbeitsfenster können Sie die Einstellungen im Detail vornehmen.
+	
+	
+C. Informationsbalken
+Hier sehen Sie z.B., wieviel Speicherplatz Sie auf dem Server belegen oder wieviele POP3-Accounts Sie schon eingerichtet haben.
+
+	
+	
+		
+4. E-MAILKONTEN AUF DEM SERVER EINRICHTEN
+	
+Loggen Sie sich in Ihr Hostpoint Control Panel ein und klicken Sie im Hauptmenü auf 'E-Mail', danach im Untermenü auf den Punkt 'E-Mailkontos'. Sie sehen nun im Arbeitsfenster die Informationen 'E-Mailkonto erstellen' und 'E-Mailkontos bearbeiten'. Klicken Sie auf 'E-Mailkonto erstellen'. Sie sehen nun 3 Felder. In das erste Feld mit der Bezeichnung 'E-Mail Adresse' schreiben Sie nun den gewünschten E-Mailnamen (ohne @muerggu.ch). Wählen Sie danach den Domainnamen aus, falls Sie mehrere Domainnamen installiert haben. In das zweite Feld geben Sie das gewünschte Passwort ein. Im dritten Feld bestimmen Sie die Grösse des Accounts. Wir empfehlen eine Mindestgrösse von 5 MB. Gegen oben ist es nur eine Frage Ihres Gesamtspeicherplatzes, da gespeicherte E-Mails den totalen Speicherplatzverbrauch angerechnet werden.
+	
+Nun müssen Sie nur noch den Button 'Erstellen' drücken und Ihr E-Mailkonto ist eingerichtet.
+	
+Das Einrichten weiterer Adressen verläuft genau gleich.
+
+
+
+
+5. STANDARD ADRESSE EINRICHTEN
+
+Da Sie nun ein erstes E-Mailkonto erstellt haben, müssen Sie jetzt Ihrem Server Bescheid geben, dass alle E-Mails, die ungeroutet (an nicht vorhandene E-Mailadressen) an @muerggu.ch gesandt werden, zu sammeln und auf eine bestimmte E-Mailadresse weiterleiten zu lassen.
+
+Klicken Sie deshalb im Hauptmenü auf 'E-Mail', danach im Untermenü auf den Punkt 'Standard Adresse'. Sie sehen nun im Arbeitsfenster die Informationen 'Standard Adressen Übersicht' und 'Standard Adresse erstellen'. Klicken Sie auf 'Standard Adresse erstellen'. Sie sehen nun
+1 Feld.  Wählen Sie zuerst den Domainnamen aus, falls Sie mehrere Domainnamen installiert haben. In das leere Feld geben Sie nun die gerade erstellte E-Mailadresse (irgendwas@muerggu.ch) ein. Sie können optional selbstverständlich auch eine eine externe E-Mailadresse
+(irgendwas@gmx.ch) eingeben.
+
+Nun müssen Sie nur noch den Button 'Erstellen' drücken.
+
+Falls Sie mehrere Domainnamen installiert haben wiederholen Sie für jeden Domainnamen diesen Vorgang.
+	
+	
+	
+
+6. KONTAKTINFORMATIONEN EINRICHTEN
+
+Damit wir Sie bei einem Notfall erreichen können, sollten Sie eine Kontaktadresse bekannt geben.
+
+Klicken Sie im Hostpoint Control Panel oben rechts auf den Punkt 'Administration'. Sie sehen nun ein Feld. Geben Sie nun dort die gerade erstellte E-Mailadresse (irgendwas@muerggu.ch) ein. Sie können optional selbstverständlich auch eine eine externe E-Mailadresse
+(irgendwas@gmx.ch) eingeben.
+
+Klicken Sie nun auf den Butten 'Speichern'.
+	
+
+
+	
+7. E-MAILPROGRAMM AUF IHREM COMPUTER EINRICHTEN
+	
+Nun müssen Sie noch Ihr E-Mailprogramm (z.B. Outlook) konfigurieren.
+Dazu benötigen Sie die folgenden Angaben:
+	
+	
+E-Mailkonto:                IhreWahl@muerggu.ch
+Posteingang  (POP3):        mail.muerggu.ch
+Postausgang (SMTP Server):  mail.muerggu.ch
+Username:                   IhreWahl@muerggu.ch (Netscape auch:
+IhreWahl%muerggu.ch)
+Passwort:                   freie Wahl bzw. das Passwort, welches Sie
+beim Einrichten des ersten E-Mailkontos eingegeben haben
+Absenderadresse:            IhreWahl@muerggu.ch
+	
+Zusätzlich müssen Sie die Checkbox 'Der Postausgangsserver SMTP erfordert Authentifizierung' anklicken.
+	
+Falls Sie mit dieser Konfiguration Schwierigkeiten haben, finden Sie im Hostpoint Control Panel Menü  'Support' unter 'Anleitungen' mehrere illustrierte Anleitungen.
+	
+Die gesamte Einrichtung ist nun abgeschlossen und Sie können Ihre E-Mails jetzt mit Ihrem E-Mailprogramm abrufen / versenden.
+	
+	
+	
+	
+8. WEBMAIL
+	
+Unter http://www.mail2web.ch können Sie weltweit ohne grösseren Aufwand auf Ihre E-Mails zugreifen.
+	
+Nach der Eingabe des URL http://www.mail2web.ch escheint ein Login-Fenster. Geben Sie folgendes ein:
+	
+Username:   gewünschterUsername@muerggu.ch (ACHTUNG: Die gesamte
+E-Mailadresse!!)
+Passwort:   entsprechendes Passwort
+	
+Bestätigen Sie die Eingabe mit dem 'OK'-Button und Sie befinden sich im Webmail.
+	
+
+
+		
+9. FTP-ZUGANG
+	
+Um Ihre Daten auf Ihren Server zu laden, benützen Sie am besten einen FTP-Client. Falls Sie keinen FTP-Client haben, finden Sie im Software Packet einen Client.
+	
+Folgende Informationen sind für einen FTP-Client zwingend:
+	
+Server:     ftp.muerggu.ch oder ftp.server18.hostpoint.ch
+Username:   muerggu
+Passwort:   JHSDf5ka
+	
+	
+Wenn Sie im Hostpoint Control Panel zusätzliche FTP-Accounts erstellt haben, können die verschiedenen User folgendermassen auf den FTP-Account
+zugreifen:
+	
+Server:     ftp.muerggu.ch oder ftp.server18.hostpoint.ch
+Username:   ftpaccount@muerggu.ch ('ftpaccount' wird durch Sie im
+Control Panel bestimmt)
+Passwort:   wird durch Sie im Control Panel bestimmt.
+	
+	
+	
+	
+10. WIE KOMMT DIE WEBSEITE AUF DEN SERVER?
+	
+Sie können Ihre Webseite mit der Technik erstellen, die Sie bevorzugen.
+Bitte beachten Sie jedoch den folgenden Hinweis:
+	
+Sämtliche Daten, die Ihre Webseite betreffen, MÜSSEN ZWINGEND in dem Ordner
+	
+public_html
+	
+heraufgeladen werden.
+	
+Vermeiden Sie es, Daten ausserhalb dieses Ordners zu platzieren, da ansonsten andere Dienste (wie E-Mail oder Statistiken) beeinträchtigt werden können.
+	
+	
+	
+	
+11. FRONTPAGE / CGI / ALLGEMEINES /mySQL
+	
+A. Frontpage
+    Bevor Sie mit Frontpage zum ersten Mal auf Ihren Server zugreifen, müssen Sie im Hostpoint
+    Control Panel Menü 'Server Management' unter 'Frontpage Manager' die Erweiterungen installieren.
+	
+Wenn Ihre Frontpage-Erweiterungen installiert sind, finden Sie im Hostpoint Control Panel Menü  'Support' unter 'Anleitungen' eine genaue Anleitung, wie Sie Frontpage mit Ihrem Server benutzen können.
+
+	
+	
+B. CGI
+Ihr CGI-BIN hat folgenden Pfad: /home/muerggu/public_html/cgi-bin
+	
+Die URL für Ihr CGI-BIN lautet: http://www.muerggu.ch/cgi-bin/
+	
+Sie können in diesem Verzeichnis Ihre CGI-Skripte speichern. Denken Sie daran, dass Sie die Permissions (CHMOD) der Skripte auf 755 setzten, damit diese ausführbar sind.
+	
+Achtung: Damit wir Ihnen die grösstmögliche Sicherheit für Ihre Daten bieten können, werden Skripte mit der Permission 777 NICHT ausgeführt!
+	
+Der Pfad zu Perl lautet wie folgt: /usr/bin/perl Die erste Zeile eines Perl-Skripts sieht folglich so aus:
+#!/usr/bin/perl
+	
+Wenn Ihr Perl-Skript nicht funktioniert, sind die vier häufigsten Gründe die, dass... 
+... die Permissions nicht richtig gesetzt wurden. 
+... im Skript der Pfad in der ersten Linie nicht #!/usr/bin/perl lautet.
+
+... im Skript Syntaxfehler vorhanden sind. 
+... das Skript nicht als ASCII raufgeladen wurde. 
+Meistens hilft Ihnen die Error Logs weiter. Sie finden dieses in Ihrem Hostpoint Control Panel im Menü 'Statistiken'.
+		
+	
+C. ALLGEMEINES
+Uploaden Sie Ihre Perl-Skripte und Textdaten als ASCII-Text auf Ihren Server. GIF- und JPG-Bilder sind als Image- oder Binär-Dateien auf Ihren Server zu laden. Meistens erkennt der FTP-Client den Datentyp und wählt automatisch die richtige Übertragungsmethode.
+	
+Mac-Benutzer können Ihre Daten als 'raw data' uploaden.
+	
+Ihr Server unterscheidet zwischen Klein- und Grossschreibung!
+	
+	
+D. mySQL
+	
+Um eine Datenbank zu betreiben benötigen Sie folgende Informationen:
+	
+Server:       localhost
+Datenbank:    muerggu_datenbankname (wird durch Sie im Control Panel
+gewählt)
+Username:     muerggu_datenbankuser (wird durch Sie im Control Panel
+gewählt)
+Passwort:     wird durch Sie im Control Panel gewählt
+	
+	
+	
+	
+12. SUPPORT
+	
+A. Online Support
+Sie finden im Hostpoint Control Panel Menü 'Support'  eine gut ausgebaute Support Umgebung mit Helpdesk, Anleitungen und Links.
+	
+B. E-Mailsupport / Helpdesk
+Bei Problemen senden Sie bitte ein E-Mail an unseren Helpdesk. Die verschiedenen E-Mail-Adressen finden Sie im Hostpoint Control Panel Menü 'Support', 'Helpdesk'. Sie können sich mit Hilfe des Helpdesk direkt mit unserer Support-Abteilung in Verbindung setzen.
+	
+C. Telefonischer Support
+Ihre Supportanfragen werden telefonisch unter 055 220 0405 entgegengenommen. Die Support-Hotline ist Werktags von 9.00 Uhr bis 19.00 Uhr geöffnet.
+	
+	
+	
+
+13. HOSTPOINT SURF - EINFACH INS INTERNET UND AUF IHREN SERVER
+
+Hostpoint Surf ist Ihr Zugang ins Internet und auf Ihren Server: schnell und einfach eingerichtet, ohne Anmeldung und weitere Verpflichtungen, und zu günstigen Tarifen.
+
+Ganz egal wo Sie sich in der Schweiz aufhalten, vom Festnetz oder via Handy, mit Hostpoint Surf sind Sie mit dem Internet und direkt mit Ihrem Server verbunden (Analog oder ISDN – Kanalbündelung möglich).
+
+
+A. Zugangskonfiguration:
+
+Einwahlnummer:   0840 777700
+Username/UserID: host
+Passwort:        point
+
+
+B. Tarife (Festnetz):
+
+Montag bis Freitag
+
+08:00 - 16:00 Uhr  Tag Tarif               CHF 2.80/Stunde
+16:00 - 22:00 Uhr  Abend Tarif             CHF 1.80/Stunde
+22:00 - 08:00 Uhr  Nacht Tarif        	   CHF 0.70/Stunde
+
+Samstag/Sonntag/allgm. Feiertage
+08:00 - 22:00 Uhr  Wochenende Tarif        CHF 1.80/Stunde
+22:00 - 08:00 Uhr  Wochenende Nacht Tarif  CHF 0.70/Stunde
+
+
+
+
+14. HOSTINGVERTRAG
+	
+A. Ihre Vertrags-Informationen
+	
+Vertragsdauer:      12 Monate
+Preis Server:       SFr. 9.90 / Monat (*allfällige bestellte Optionen
+werden hier nicht aufgeführt)
+Bezahlung:          per Rechnung
+	
+Wenn Ihr Vertrag abläuft, wird er automatisch um 12 Monate verlängert.
+Sie erhalten entweder eine Rechnung oder Ihre Kreditkarte/Postcard wird belastet. 
+	
+	
+B. Kündigung
+Falls Sie Ihren Server kündigen möchten, bitten wir Sie um eine schriftliche Kündigung per Post oder Fax  bis spätestens 30 Tage vor Ablauf der Vertragsdauer. Die genauen Vertragskonditionen haben Sie vor Ihrer Anmeldung akzeptiert. Falls Sie die Konditionen noch einmal durchlesen möchten, finden Sie unsere AGB unter http://www.hostpoint.ch.
+	
+	
+C. Adressänderungen
+Bitte teilen Sie uns mit, wenn Sie umziehen, damit Sie und wir unnötige Umtriebe vermeiden können.
+	
+	
+D. Kreditkarte/Postcard
+Falls Sie per Kreditkarte/Postcard bezahlen, beachten Sie bitte, dass Sie uns betreffend Gültigkeit Ihrer Karte auf dem Laufenden halten.
+	
+	
+	
+	
+Wir freuen uns, dass Sie Hostpoint  als Ihren Hosting-Provider ausgewählt haben. 
+	
+	
+Freundliche Grüsse
+
+Sales Team
+
+Hostpoint GmbH        | The Data Residence    |
+Oberseestrasse 22     | 8640 Rapperswil       | Schweiz
+
+Tel  +41 55 220 0404  | Fax  +41 55 220 0409  | www.hostpoint.ch
+
